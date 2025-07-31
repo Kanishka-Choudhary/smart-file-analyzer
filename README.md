@@ -49,5 +49,5 @@ Smart File Analyzer is a Streamlit-based tool that intelligently analyzes upload
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kanishka-Choudhary/File-Analyzer
+git clone https://github.com/Kanishka-Choudhary/smart-file-analyzer
 cd smart-file-analyzer
